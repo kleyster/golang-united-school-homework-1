@@ -6,7 +6,7 @@ import (
 )
 
 func main(){
-	fmt.Println(GetMessage())
+	return GetMessage()
 }
 
 func GetMessage() string {
